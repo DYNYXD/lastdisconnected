@@ -5,3 +5,5 @@ someone on maybe some forums and he leave instantly i can just type sm_disconnec
  And you need multi colors from Bara : to make the plugin work https://github.com/Bara/Multi-Colors
 so the commands :
 sm_disconnected
+
+Also big credits to : Headline for making the Ban Disconnected plugin 
