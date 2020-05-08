@@ -6,4 +6,4 @@ someone on maybe some forums and he leave instantly i can just type sm_disconnec
 so the commands :
 sm_disconnected
 
-Also big credits to : Headline for making the Ban Disconnected plugin 
+Also big credits to : Headline for making the Ban Disconnected plugin a lot of the code is from him
